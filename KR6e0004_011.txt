@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:17.258794
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 華嚴經探玄記
 #+PROPERTY: CBETA_ID T35n1733
 #+PROPERTY: ID KR6e0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1733
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0004_T_011-0306a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 華嚴經探玄記卷第十一(此盡第二地)¶
+華嚴經探玄記卷第十一(此盡第二地)¶
 ¶
 魏國西寺沙門法藏述¶
 

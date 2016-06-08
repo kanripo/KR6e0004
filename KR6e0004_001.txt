@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:16.705727
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 華嚴經探玄記
 #+PROPERTY: CBETA_ID T35n1733
 #+PROPERTY: ID KR6e0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 35, No. 1733
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0004_T_001-0107a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1733[cf.No.278]¶
-
- 華嚴經探玄記卷第一¶
+No. 1733 [cf. No. 278]¶
+華嚴經探玄記卷第一¶
 ¶
 魏國西寺沙門法藏述¶
 
@@ -32,9 +31,9 @@ No.1733[cf.No.278]¶
 　開此祕奧藏
 　廣益於自他¶
 　願令法久住
-　傳燈報佛恩
+　傳燈報佛恩」
 #+END_VERSE
-」¶
+¶
 
 夫以法性虛。空廓無涯而超視聽。智慧大海¶
 深。無極而抗思議眇眇玄猷。名言罕尋其¶
