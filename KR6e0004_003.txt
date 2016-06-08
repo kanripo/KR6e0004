@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:16.823791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 華嚴經探玄記
 #+PROPERTY: CBETA_ID T35n1733
 #+PROPERTY: ID KR6e0004
@@ -16,7 +16,7 @@
 ¶
 魏國西寺沙門法藏述¶
 
-2盧舍那佛品
+* 2盧舍那佛品
 :PROPERTIES:
 :head: 盧舍那佛品第二
 :END:

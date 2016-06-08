@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:17.645013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:09
 #+TITLE: 華嚴經探玄記
 #+PROPERTY: CBETA_ID T35n1733
 #+PROPERTY: ID KR6e0004
@@ -15,7 +15,8 @@
 ¶
 魏國西寺沙門法藏述¶
 
-34入法界品
+* 34入法界品
+** 1
 :PROPERTIES:
 :head: 入法界品第三十四
 :END:
